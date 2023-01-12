@@ -10,3 +10,5 @@
 
 ## Train CIFAR10 with PyTorch
 [github reference](https://github.com/kuangliu/pytorch-cifar)
+
+[pytorch for jetson](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
