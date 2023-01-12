@@ -4,6 +4,8 @@
 ## Download SD Card Image
 [downlaod link](https://developer.nvidia.com/embedded/downloads)
 
+## Write Image to the microSD Card
+[downlaod link](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#write)
 
 
 ## Train CIFAR10 with PyTorch
