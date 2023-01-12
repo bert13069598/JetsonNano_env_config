@@ -7,6 +7,8 @@
 ## Write Image to the microSD Card
 [downlaod link](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#write)
 
+## Install Anaconda
+wget http://github.com/seibert/jetconda/releases/download/v1.0.0-tx2/Jetconda3-1.0.0-Linux-aarch64.sh
 
 ## Train CIFAR10 with PyTorch
 [github reference](https://github.com/kuangliu/pytorch-cifar)
