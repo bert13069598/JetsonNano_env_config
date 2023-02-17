@@ -1,5 +1,5 @@
 # JetsonNano
-<img src= "https://github.com/bert13069598/JetsonNano/blob/master/JetsonNano.PNG">
+<img src= "https://github.com/bert13069598/JetsonNano/blob/master/JetsonNano.png">
 
 ## Download SD Card Image
 [Jetson Download Center](https://developer.nvidia.com/embedded/downloads)
