@@ -12,6 +12,7 @@ NVIDIA Jetson Nano 2GB Developer Kit
 | cuDNN | 8.2.1.32 |
 | Python3 | 3.6.9 |
 
+![image](https://user-images.githubusercontent.com/89738612/228831090-748374bd-1893-4f35-809d-5d5e2505e58c.png)
 
 
 ## Write Image to the microSD Card
