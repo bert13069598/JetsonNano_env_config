@@ -27,9 +27,9 @@ wget http://github.com/seibert/jetconda/releases/download/v1.0.0-tx2/Jetconda3-1
 [Pytorch for jetson](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
 ### torch 1.8.0
 ```bash
-wget https://nvidia.box.com/shared/static/p57jwntv436lfrd78inwl7iml6p13fzh.whl -O torch-1.8.0-cp36-cp36m-linux_aarch64.whl
-sudo apt-get install python3-pip libopenblas-base libopenmpi-dev libomp-dev
+sudo apt install -y python3-pip libopenblas-base libopenmpi-dev libomp-dev
 pip3 install Cython
+wget https://nvidia.box.com/shared/static/p57jwntv436lfrd78inwl7iml6p13fzh.whl -O torch-1.8.0-cp36-cp36m-linux_aarch64.whl
 pip3 install numpy torch-1.8.0-cp36-cp36m-linux_aarch64.whl
 ```
 ### torchvision 0.9.0
