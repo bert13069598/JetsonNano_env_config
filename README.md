@@ -45,8 +45,11 @@ python3 setup.py install --user
 ```bash
 pip3 install image
 ```
-
-- version check
+## Install jtop
+```
+sudo -H pip3 install -U jetson-stats
+```
+## version check
 
 
 
